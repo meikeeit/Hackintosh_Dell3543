@@ -1,1 +1,8 @@
 # Hackintosh for Dell3543
+
+CPU:I5-5200U
+GPU:HD5500+GT920M(disabled)
+HDA:ALC255(ALC3234)
+Wired:RTL8100
+WIFI:BCM4322(changed)
+USB:USB2.0x2+USB3.0x1
