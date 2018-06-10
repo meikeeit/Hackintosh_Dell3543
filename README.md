@@ -7,7 +7,7 @@ GPU:HD5500+GT920M(disabled)
 
 HDA:ALC255(ALC3234)
 
-Wired:RTL8100
+Wired:RTL8106E
 
 WIFI:BCM4322(changed)
 
