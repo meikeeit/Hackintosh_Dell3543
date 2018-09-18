@@ -1,5 +1,4 @@
-# Hackintosh for Dell3543
-
+# Hardware
 
 CPU:I5-5200U
 
@@ -9,6 +8,6 @@ HDA:ALC255(ALC3234)
 
 Wired:RTL8106E
 
-WIFI:BCM4322(fixed)
+WIFI:BCM4322
 
 USB:USB2.0x2+USB3.0x1
