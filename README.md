@@ -8,8 +8,8 @@ HDA:ALC255(ALC3234)
 
 Wired:RTL8106E
 
-WIFI:BCM4322
+WIFI:Fix it youself
 
 USB:USB2.0x2+USB3.0x1
 
-PS:不能正常休眠
+PS:Can't sleep.
