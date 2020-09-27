@@ -8,8 +8,8 @@ HDA:ALC255(ALC3234)
 
 Wired:RTL8106E
 
-WIFI:Fix it youself
+Wireless:Fix it youself...
 
 USB:USB2.0x2+USB3.0x1
 
-PS:Can't sleep or change backlight.
+PS:Can't sleep...
